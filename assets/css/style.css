@@ -3,3 +3,11 @@
   font-style: normal;
   font-weight: bold;
 }
+
+body{
+  background-color: grey;
+}
+
+#carousel{
+  align-items: center;
+}
