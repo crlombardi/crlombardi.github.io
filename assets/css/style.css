@@ -21,3 +21,9 @@ h1{
 .grid{
   text-align: right;
 }
+
+img{
+  padding-bottom: 25px;
+  width: 100;
+  height: 100;
+}
